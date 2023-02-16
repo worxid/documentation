@@ -15,8 +15,8 @@
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
   },
-  "item.label.User Docs": {
+  "item.label.User Documentation": {
     "message": "Dokumentasi Pengguna",
-    "description": "Navbar item with label User Docs"
+    "description": "Navbar item with label User Documentation"
   }
 }
