@@ -67,7 +67,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about-worx',
             position: 'left',
             label: 'User Documentation',
           },
