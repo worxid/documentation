@@ -67,9 +67,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about-worx',
             position: 'left',
-            label: 'Tutorial',
+            label: 'User Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -90,7 +90,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'User Documentation',
                 to: '/docs/intro',
               },
             ],

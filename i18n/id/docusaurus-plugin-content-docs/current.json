@@ -14,5 +14,61 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Website Application Usage": {
+    "message": "Penggunaan Aplikasi Web",
+    "description": "The label for category Website Application Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Change the Password": {
+    "message": "Ganti Kata Sandi",
+    "description": "The label for category Change the Password in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Table Component": {
+    "message": "Komponen Tabel",
+    "description": "The label for category Table Component in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Home Page": {
+    "message": "Halaman Utama",
+    "description": "The label for category Home Page in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Forms": {
+    "message": "Formulir",
+    "description": "The label for category Forms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Devices": {
+    "message": "Perangkat",
+    "description": "The label for category Devices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Groups": {
+    "message": "Kelompok",
+    "description": "The label for category Groups in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fill Out and Respond to a Form": {
+    "message": "Mengisi dan Memberikan Respon terhadap Formulir",
+    "description": "The label for category Fill Out and Respond to a Form in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Submissions of a Form": {
+    "message": "Submission terhadap Formulir",
+    "description": "The label for category Submissions of a Form in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Settings Page": {
+    "message": "Halaman Pengaturan",
+    "description": "The label for category Settings Page in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Android Application Usage": {
+    "message": "Penggunaan Aplikasi Android",
+    "description": "The label for category Android Application Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.(Sample) Tutorial - Basics": {
+    "message": "(Sample) Tutorial - Basics",
+    "description": "The label for category (Sample) Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.(Sample) Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category (Sample) Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.(Sample) Tutorial - Extras": {
+    "message": "(Sample) Tutorial - Extras",
+    "description": "The label for category (Sample) Tutorial - Extras in sidebar tutorialSidebar"
   }
 }
