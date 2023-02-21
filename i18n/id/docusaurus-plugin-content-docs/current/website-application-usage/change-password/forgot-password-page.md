@@ -16,6 +16,6 @@ Anda dapat kembali ke halaman Sign In melalui tombol Sign In.
 
 Anda juga dapat meminta aplikasi Worx untuk mengirim kembali email yang berisi tautan untuk mengubah kata sandi Anda. Berikut adalah tampilan email yang berisi tautan untuk mengubah kata sandi Anda.
 
-![](/img/screenshots/website-application-usage/change-password/forgot-password/forgot-password-3.png)
+![](/img/screenshots/website-application-usage/change-password/forgot-password/forgot-password-3.png#center)
 
 Tekan tombol "Reset Password" pada email tersebut dan Anda akan diarahkan ke dalam halaman Reset Password.
