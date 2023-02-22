@@ -2,6 +2,7 @@
   "label": "Table Component",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "In this section, we take an example from the Devices page to explain some of the commonly present features of a table in this Worx website application."
   }
 }
