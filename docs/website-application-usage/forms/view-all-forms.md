@@ -6,7 +6,7 @@ sidebar_position: 1
 
 You can see the entire form model you've created on the Forms page (https://dev.worx.id/forms). Here's an example of what the Forms Page looks like.
 
-![](/img/screenshots/website-application-usage/home-page/view-all-forms/view-all-forms-1.png)
+![](/img/screenshots/website-application-usage/forms/view-all-forms/view-all-forms-1.png)
 
 The table on this Form Page has all the features already mentioned in the table component page documentation.
 

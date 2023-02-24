@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Anda dapat melihat seluruh model formulir yang sudah Anda buat pada ada halaman Formulirs (https://dev.worx.id/forms). Berikut adalah contoh tampilan halaman Formulirs.
 
-![](/img/screenshots/website-application-usage/home-page/view-all-forms/view-all-forms-1.png)
+![](/img/screenshots/website-application-usage/forms/view-all-forms/view-all-forms-1.png)
 
 Tabel pada halaman Formulir ini memiliki seluruh fitur yang sudah disebutkan pada dokumentasi halaman komponen tabel.
 
