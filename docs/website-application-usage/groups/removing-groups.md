@@ -12,7 +12,7 @@ You can delete one or more rows of a group at a time. Just select whichever grou
 
 ![](/img/screenshots/website-application-usage/groups/removing-groups/removing-groups-2.png)
 
-Next comes the capital confirmation of the groups' deletion, such as in the picture below.
+Next comes the modal confirmation of the groups' deletion, such as in the picture below.
 
 ![](/img/screenshots/website-application-usage/groups/removing-groups/removing-groups-3.png)
 
