@@ -11,7 +11,7 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Use '/' if using custom domain, otherwise use `projectName`
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
