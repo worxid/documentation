@@ -5,7 +5,7 @@ slug: /
 
 # About Worx
 
-![](/img/screenshots/about-worx/about-worx-1.jpg)
+![](/img/screenshots/about-worx/about-worx-1.jpg#center)
 
 Worx.id is a hassle-free mobile data collection and workforce management platform for any business and professional teams which simplifies forms distribution and collection from anywhere and anytime.
 

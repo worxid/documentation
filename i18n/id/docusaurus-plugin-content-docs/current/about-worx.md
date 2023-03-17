@@ -5,7 +5,7 @@ slug: /
 
 # Tentang Worx
 
-![](/img/screenshots/about-worx/about-worx-1.jpg)
+![](/img/screenshots/about-worx/about-worx-1.jpg#center)
 
 Worx.id adalah sebuah platform pengumpulan data seluler dan manajemen tenaga kerja yang tidak merepotkan untuk tim bisnis dan profesional yang menyederhanakan distribusi dan pengumpulan formulir dari mana pun dan kapan pun.
 
