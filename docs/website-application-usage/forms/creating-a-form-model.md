@@ -24,7 +24,6 @@ The Toolbox section is a section for a list of input elements used to build a Fo
 
 ![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-3.png#center)
 
-
 The element inputs will be described in a separate section later.
 
 ### 2. Form Fields
@@ -72,7 +71,7 @@ The Form Name works to set the title of the Form Model you created and this fiel
 #### 2. Description
 
 The Description is to set the description of the Form Model you created and this field is required.
-You can see a preview of the Header Info in the Preview Section. The result is shown below. The name and description of the form will be attached as a title as well as a description. 
+You can see a preview of the Header Info in the Preview Section. The result is shown below. The name and description of the form will be attached as a title as well as a description.
 
 ![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-9.png#center)
 
@@ -102,7 +101,7 @@ The Required property serves to set if this Text Field is required on the Form F
 
 You can see a Preview of the Text Field in the Preview Section. The result is shown below. There are a label, a description, and a Text Field view.
 
-![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-11.png)
+![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-11.png#center)
 
 ### 3. Checkbox
 
@@ -152,7 +151,7 @@ The Radio Group has 4 field properties, namely Label, Description, Option List, 
 
 #### 1. Label
 
-The Label functions to set the title of the Radio Group. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app. 
+The Label functions to set the title of the Radio Group. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app.
 
 #### 2. Description
 
@@ -193,7 +192,6 @@ You can see a Preview of Yes or No in the Preview Section. The result is shown b
 The Dropdown input functions to bring up a list of options for the user to select one of the existing options. The Dropdown is used to collect data such as country and so on.
 
 ![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-20.png)
-
 
 The dropdown has 4 property fields, namely Label, Description, Option List, and Required. The following is the explanation of the field properties of the Dropdown.
 
@@ -325,7 +323,7 @@ The Integer input has only 1 property field, which is Label. The following is th
 
 #### 1. Label
 
-The Label functions to set the title of the Integer. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app. 
+The Label functions to set the title of the Integer. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app.
 
 You can see a preview of Integer in the Preview Section. The results are shown below. There is a label as well as an input.
 
@@ -341,7 +339,7 @@ The file has 9 field properties, namely Label, Description, Maximum File, File F
 
 #### 1. Label
 
-The Label functions to set the title of the File. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app. 
+The Label functions to set the title of the File. This label is not required or may be left blank. This label will appear on the Form Fill page on the Worx website and the Worx mobile app.
 
 #### 2. Description
 
@@ -373,7 +371,7 @@ The max file size format property functions to set the format of the maximum fil
 
 #### 9. Required
 
-The Required property functions to set if this File input is required on the Form Fill Page. The checking process will occur on the server and there will be a notification that the File input is required. 
+The Required property functions to set if this File input is required on the Form Fill Page. The checking process will occur on the server and there will be a notification that the File input is required.
 
 You can see a preview of the File input in the Preview Section. The result is shown below. There are a label and an Add File Button.
 
@@ -405,7 +403,7 @@ The Allow To Upload From Gallery property functions to allow uploading photos/im
 
 #### 5. Required
 
-The Required property functions to set if this photo is required on the Form Fill Page. The inspection process will occur on the server and there will be a notification that the photo is required. 
+The Required property functions to set if this photo is required on the Form Fill Page. The inspection process will occur on the server and there will be a notification that the photo is required.
 
 You can see a preview of the Photo in the Preview Section. The result is like this image. There are a label, a caption, a camera button, and a gallery button.
 

@@ -24,7 +24,6 @@ Bagian Toolbox merupakan bagian untuk daftar elemen-elemen input yang digunakan 
 
 ![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-3.png#center)
 
-
 Elemen-elemen input tersebut akan dijelaskan pada bagian yang terpisah.
 
 ### 2. Form Fields
@@ -103,7 +102,7 @@ Wajib berfungsi untuk mengatur jika Input Teks ini wajib diisi di halaman Isi Fo
 
 Anda dapat melihat Preview dari Input Teks pada Bagian Preview, hasilnya seperti gambar di bawah ini. Terdapat label, keterangan serta Input Teks.
 
-![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-11.png)
+![](/img/screenshots/website-application-usage/forms/creating-a-new-form-model/creating-a-new-form-model-11.png#center)
 
 ### 3. Kotak Centang (Checkbox)
 
