@@ -32,4 +32,6 @@
 img[src*='#center'] {
   display: block;
   margin: auto;
+  max-height: 455px;
+  width: auto;
 }
